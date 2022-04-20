@@ -3,7 +3,7 @@
     text-align: center;
     font-size: 110%;
 }
-@media ( max-width: 390px){
+@media (git statusmax-width: 390px){
     .head{
         display: flex;
         justify-content: center;
