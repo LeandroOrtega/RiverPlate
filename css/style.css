@@ -1,5 +1,9 @@
 /*Index*/
-@media ( max-width:390px)
+.descripcion__sitio{
+    text-align: center;
+    font-size: 100%;
+}
+@media ( max-width: 390px)
 {
 
     .head{
